@@ -1,0 +1,26 @@
+Title: Large Language Models (LLMs)
+
+Content:
+Large Language Models (LLMs) are deep learning models trained on vast amounts of text data.
+
+They use transformer architecture to understand and generate human-like text.
+
+Popular LLMs include:
+- GPT models
+- FLAN-T5
+- LLaMA
+- Mistral
+
+Key capabilities:
+- Text generation
+- Question answering
+- Summarization
+- Translation
+- Code generation
+
+Limitations:
+- Can hallucinate incorrect facts
+- Knowledge is limited to training data
+- Sensitive to prompt design
+
+LLMs are often combined with RAG to improve reliability.

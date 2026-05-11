@@ -1,0 +1,20 @@
+Title: Python Basics
+
+Content:
+Python is a high-level programming language known for its simplicity.
+
+Key features:
+- Easy to learn syntax
+- Dynamic typing
+- Large ecosystem of libraries
+
+Common uses:
+- Web development
+- Data science
+- Machine learning
+- Automation
+
+Example:
+Python uses indentation to define code blocks.
+
+Functions are defined using the 'def' keyword.

@@ -1,0 +1,26 @@
+Title: Retrieval-Augmented Generation (RAG)
+
+Content:
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with natural language generation.
+
+Instead of relying only on a pretrained language model, RAG retrieves relevant documents from a knowledge base and uses them as context to generate answers.
+
+The typical RAG pipeline consists of:
+1. Document ingestion
+2. Text chunking
+3. Embedding generation
+4. Vector storage
+5. Query embedding
+6. Retrieval of relevant chunks
+7. Answer generation using an LLM
+
+RAG improves factual accuracy and reduces hallucinations by grounding responses in real data.
+
+Advantages:
+- More accurate answers
+- Can use private data
+- Updatable knowledge without retraining
+
+Disadvantages:
+- Retrieval errors can affect output
+- Requires good chunking and embeddings

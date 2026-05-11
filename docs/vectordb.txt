@@ -1,0 +1,23 @@
+Title: Vector Databases
+
+Content:
+A vector database stores data in the form of embeddings (numerical vectors).
+
+These embeddings represent the semantic meaning of text.
+
+Common vector databases:
+- ChromaDB
+- FAISS
+- Pinecone
+- Weaviate
+
+How it works:
+1. Convert text into embeddings
+2. Store embeddings in the database
+3. Perform similarity search using distance metrics
+
+Similarity metrics include:
+- Cosine similarity
+- Euclidean distance
+
+Vector databases are essential for semantic search and RAG systems.

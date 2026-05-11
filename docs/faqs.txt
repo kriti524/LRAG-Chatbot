@@ -1,0 +1,22 @@
+Title: Frequently Asked Questions
+
+Q: What is RAG?
+A: RAG is a system that retrieves relevant documents and uses them to generate answers using a language model.
+
+Q: What is a vector database?
+A: A vector database stores embeddings and allows fast semantic search.
+
+Q: What is an embedding?
+A: An embedding is a numerical representation of text that captures its meaning.
+
+Q: What is chunking?
+A: Chunking is splitting large text into smaller pieces for better retrieval.
+
+Q: What is a transformer?
+A: A transformer is a neural network architecture used in modern NLP models.
+
+Q: What is Python used for?
+A: Python is used for web development, AI, data science, and automation.
+
+Q: Why use RAG instead of LLM alone?
+A: Because RAG improves accuracy by providing external knowledge to the model.

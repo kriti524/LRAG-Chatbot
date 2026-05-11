@@ -1,0 +1,22 @@
+Title: Transformers in NLP
+
+Content:
+Transformers are a type of neural network architecture introduced in the paper "Attention is All You Need".
+
+They rely on a mechanism called self-attention to process input data.
+
+Key components:
+- Attention mechanism
+- Encoder and decoder layers
+- Positional encoding
+
+Advantages:
+- Parallel processing
+- Better long-range dependency handling
+
+Transformers are the foundation of modern NLP models like BERT and GPT.
+
+They have significantly improved performance in tasks such as:
+- Machine translation
+- Text summarization
+- Question answering
